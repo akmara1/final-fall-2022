@@ -1,7 +1,7 @@
 # *CS 204: Back-end Development with Spring Framework (Final)*
 ## Student Management System
 
-Simple and fully responsive Student Management System using Spring Boot, Thymeleaf and PostgresSQL database.
+Simple and fully responsive Student Management System using Spring Boot, Thymeleaf and PostgresSQL database...
 
 It works with 4 tables: *students, role, users-roles, user-table*.
 Only admin can add or delete students;
